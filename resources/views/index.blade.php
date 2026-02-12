@@ -3,7 +3,7 @@
 Hero Area
 ============================== -->
 @section('content')
-    <div class="th-hero-wrapper hero-5 overlay-5" id="hero" data-bg-src="assets/img/bg/hero_bg_5_1.jpg">
+    <div class="th-hero-wrapper hero-5 overlay-5" id="hero">
         <div class="swiper th-slider hero-slider-5" id="heroSlide1" data-slider-options='{"effect":"fade","menu": ["", "", ""],"heroSlide1": {"swiper-container": {"pagination": {"el": ".swiper-pagination", "clickable": true }}}}'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide">

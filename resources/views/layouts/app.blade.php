@@ -70,7 +70,7 @@
 
 
     <!--********************************
-   		Code Start From Here 
+   		Code Start From Here
 	******************************** -->
 
     <!-- <div class="cursor-follower"></div> -->
@@ -108,7 +108,7 @@
             <div class="widget  ">
                 <div class="th-widget-about">
                     <div class="about-logo">
-                        <a href="/"><img src="{{ asset('assets/img/indepth.png') }}" alt="Indepth Solutions"></a>
+                        <a href="/"><img src="{{ asset('assets/img/main-logo.png') }}" alt="Indepth Solutions"></a>
                     </div>
                     <p class="about-text">Get in touch with us!.</p>
                     <div class="th-social">
@@ -187,7 +187,7 @@
             <button type="submit"><i class="fal fa-search"></i></button>
         </form>
     </div> -->
-    
+
     <!--==============================
     Mobile Menu
   ============================== -->
@@ -195,7 +195,7 @@
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="/"><img src="{{ asset('assets/img/indepth.png') }}" alt="Indepth Solution"></a>
+                <a href="/"><img src="{{ asset('assets/img/main-logo.png') }}" alt="Indepth Solution"></a>
             </div>
             <div class="th-mobile-menu">
                 <ul>
@@ -251,7 +251,7 @@
                         <div class="col-auto">
                             <div class="header-logo">
                                 <a href="/">
-                                    <img src="{{ asset('assets/img/indepth.png') }}" alt="Indepth Solutions">
+                                    <img src="{{ asset('assets/img/main-logo.png') }}" alt="Indepth Solutions">
                                 </a>
                             </div>
                         </div>
@@ -316,9 +316,9 @@
                             <div class="th-widget-about">
                                 <div class="about-logo">
                                     <a href="/">
-                                        <img src="{{ asset('assets/img/indepth.png') }}" alt="Indepth Solution"></a>
+                                        <img src="{{ asset('assets/img/main-logo.png') }}" alt="Indepth Solution"></a>
                                 </div>
-                                <p class="about-text">Join our growing community of satisfied clients. 
+                                <p class="about-text">Join our growing community of satisfied clients.
                                     Join us now to access our suite of powerful tools and services.</p>
                                 <div class="th-social">
                                     <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
@@ -429,7 +429,7 @@
     </footer>
 
     <!--********************************
-			Code End  Here 
+			Code End  Here
 	******************************** -->
 
     <!-- Scroll To Top -->
@@ -440,7 +440,7 @@
         </svg>
     </div>
     <!--==============================
-modal Area  
+modal Area
 ==============================-->
     <div id="login-form" class="popup-login-register mfp-hide">
         <ul class="nav" id="pills-tab" role="tablist">

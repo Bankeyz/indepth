@@ -1,12 +1,12 @@
 @charset "UTF-8";
 /*
 Template Name: Atek
-Template URL: https://wordpress.themeholy.com//Tourm/ 
-Description: It Business and Consulting Service Html Template 
+Template URL: https://wordpress.themeholy.com//Tourm/
+Description: It Business and Consulting Service Html Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
-Version: 1.0.0 
-Last Update: 20-07-2025  
+Version: 1.0.0
+Last Update: 20-07-2025
 */
 /*=================================
     CSS Index Here
@@ -36,7 +36,7 @@ Last Update: 20-07-2025
     3.8. Text Color
     3.9. Overlay
     3.10. Animation
-    
+
 04. Template Style
     4.1. Widget
     4.2. Header
@@ -46,7 +46,7 @@ Last Update: 20-07-2025
     4.6. Blog
     4.7. Comments
     4.8. Hero Area
-    4.9. Error    
+    4.9. Error
     4.00. Popup Search
     4.00. Popup Side Menu
     4.00. Wocommerce
@@ -72,7 +72,7 @@ Last Update: 20-07-2025
     4.00. CTA
     4.00. Deal
     4.00. Tab Menu
-    4.00. Particle 
+    4.00. Particle
 
 05. Spacing
 
@@ -80,7 +80,7 @@ Last Update: 20-07-2025
 /*=================================
     CSS Index End
 ==================================*/
-/*================================= 
+/*=================================
    01. Theme Base
 ==================================*/
 /*------------------- 1.1. Mixin -------------------*/
@@ -89,8 +89,8 @@ Last Update: 20-07-2025
 /*------------------- 1.2. Function -------------------*/
 /*------------------- 1.3. Variable-------------------*/
 :root {
-  --theme-color: #4d0aa4;
-  --primary-color: #4d0aa4;
+  --theme-color: #0d8813;
+  --primary-color: #0d8813;
   --title-color: #0B1422;
   --body-color: #6E7070;
   --smoke-color: #F2F5FA;
@@ -106,8 +106,8 @@ Last Update: 20-07-2025
   --success-color: #28a745;
   --error-color: #dc3545;
   --th-border-color: #D5D7DA;
-  --brand-color: #79F4E4;
-  --light-blue-color: #001C49;
+  --brand-color: #30ee3f;
+  --light-blue-color: #05cc37;
   --title-font: "Plus Jakarta Sans", sans-serif;
   --body-font: "Nunito", sans-serif;
   --style-font: "Nunito", sans-serif;
@@ -4378,7 +4378,7 @@ hr.title-line {
 }
 
 .bg-theme-dark {
-  background: #001C49;
+  background: #05cc37;
 }
 
 /*------------------- 3.8. Text Color -------------------*/
@@ -10154,7 +10154,7 @@ ol.wp-block-rss {
 }
 
 /* --------------------------------
-heding animation start 
+heding animation start
 ------------------------------------ */
 .title-area {
   -webkit-transition: all 0.3s linear 0s;
@@ -14698,8 +14698,8 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child>.th-post-
 }
 
 .overlay-5::after {
-  background: -webkit-linear-gradient(right, #4d0aa4 0%, rgba(6, 48, 117, 0) 100%);
-  background: linear-gradient(270deg, #4d0aa4 0%, rgba(6, 48, 117, 0) 100%);
+  background: -webkit-linear-gradient(right, #0d8813 0%, rgba(6, 48, 117, 0) 100%);
+  background: linear-gradient(270deg, #0d8813 0%, rgba(6, 48, 117, 0) 100%);
 }
 
 .title2 {
@@ -16434,8 +16434,8 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child>.th-post-
   height: 726px;
   border-radius: 100%;
   content: "";
-  background: -webkit-linear-gradient(219deg, #4d0aa4 37.5%, red 100%);
-  background: linear-gradient(231deg, #4d0aa4 37.5%, red 100%);
+  background: -webkit-linear-gradient(219deg, #0d8813 37.5%, red 100%);
+  background: linear-gradient(231deg, #0d8813 37.5%, red 100%);
   mix-blend-mode: color;
   z-index: 2;
   /* Medium devices */
@@ -17396,11 +17396,10 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child>.th-post-
   }
 }
 
-.hero-style12 .sub-title {
-  font-weight: 400;
+.hero-style12 .sub-title {  font-weight: 400;
   font-size: 54px;
   line-height: 1.1;
-  color: #79F4E4;
+  color: #30ee3f;
   /* Medium devices */
   /* Small devices */
 }
